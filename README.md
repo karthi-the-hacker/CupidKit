@@ -21,7 +21,7 @@ A CupidKit is a Python CLI tool for generating beautiful romantic animated websi
 
 ```
 CupidKit/
-├── cli.py                      # Main CLI entry point
+├── CupidKit.py                 # Main CLI entry point
 ├── config.py                   # Configuration and constants
 ├── animations.py               # CLI animations and UI
 ├── website_generator.py        # HTML/CSS/JS generation
@@ -100,7 +100,7 @@ ngrok --version
 
 ```bash
 # Run the CLI tool
-python cli.py
+python CupidKit.py
 ```
 
 Or if installed via setup.py:
@@ -429,3 +429,4 @@ For issues, suggestions, or contributions:
 **Happy Valentine's Day! 💕 Share the love! 💕**
 
 Made with ❤️ by your favorite developer
+
